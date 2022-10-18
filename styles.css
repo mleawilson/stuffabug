@@ -1,0 +1,84 @@
+
+/* font-family: 'Passions Conflict', cursive;
+font-family: 'Raleway', sans-serif;
+font-family: 'Rubik', sans-serif; */
+
+#title {
+  background-color: green;
+}
+#getstarted {
+  background-color: green;
+}
+
+h1 {text-align: center;}
+h3 {
+  text-align: center;
+  margin-bottom: 10px;
+  padding-top: 20px;
+}
+
+.mayfly {
+  width: 100%;
+  border-radius: 75%;
+  margin-bottom: 50px;
+  margin-left: 50px;
+  margin-top: 50px;
+
+}
+
+.title {
+  font-family: 'Raleway', sans-serif;
+  font-weight: 900;
+  font-size: 3.5rem;
+  margin: auto;
+}
+.whatwedo {
+  text-align: center;
+  color: #0F3460;
+  padding: 0 20px;
+  line-height: 1.5;
+}
+
+.beetle {
+display: block;
+margin-left: auto;
+margin-right: auto;
+}
+
+.questions {
+  margin: auto;
+  text-align: center;
+  color: white;
+
+}
+
+.cockroach {
+  width: 700px;
+  margin: 50px auto 50px;
+  display: block;
+
+}
+
+.trophytext {
+  font-family: 'Raleway', sans-serif;
+
+}
+.pettext {
+  font-family: 'Raleway', sans-serif;
+}
+
+.button {
+  margin: auto;
+}
+
+.review {
+  width: 60%;
+  margin: auto;
+  text-align: center;
+  padding-top: 50px;
+}
+
+.star {
+  color: #FF7F3F;
+  font-size: 1.5rem;
+}
